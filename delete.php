@@ -9,7 +9,7 @@ if($con->query($sql)){
 
 }
 else{
-  echo "failed";
+  echo "failed..";
 }
 
 ?>
